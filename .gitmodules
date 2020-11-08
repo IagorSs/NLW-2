@@ -4,3 +4,6 @@
 [submodule "NLW-2_mobile"]
 	path = NLW-2_mobile
 	url = https://github.com/IagorSs/NLW-2_mobile
+[submodule "NLW-2_server"]
+	path = NLW-2_server
+	url = https://github.com/IagorSs/NLW-2_server
